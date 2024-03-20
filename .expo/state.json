@@ -1,0 +1,9 @@
+{
+  "analyticsDeviceId": "29e87faf-2ffe-4394-bba1-3d6562f7f04a",
+  "auth": {
+    "sessionSecret": "{\"id\":\"102a2083-9d35-4a6d-bcea-8b43cc954c96\",\"version\":1,\"expires_at\":2026425600000}",
+    "userId": "0fccb963-9f2e-4e00-8f51-3993e1ff6d81",
+    "username": "radekrozmus",
+    "currentConnection": "Username-Password-Authentication"
+  }
+}
